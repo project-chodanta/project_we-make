@@ -1,9 +1,5 @@
 //
 //  AppDelegate.swift
-//  swift_make_2
-//
-//  
-//
 
 import UIKit
 
