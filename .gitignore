@@ -42,7 +42,18 @@ xcuserdata/
 *.xcscmblueprint
 *.xccheckout
 
-## compatibility with Xcode 3 and earlier (ignoring not required starting Xcode 4)
+#project
+*.plist
+*.pbxproj
+Contents.json
+*.storyboard
+
+
+## compatibility with 
+
+
+
+ode 3 and earlier (ignoring not required starting Xcode 4)
 build/
 DerivedData/
 *.moved-aside
