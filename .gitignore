@@ -47,7 +47,7 @@ xcuserdata/
 *.pbxproj
 Contents.json
 *.storyboard
-
+*.xcworkspacedata
 
 ## compatibility with 
 
